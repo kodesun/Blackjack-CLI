@@ -37,4 +37,4 @@ If both stand on the same value, you push and nobody wins.
 ---
 
 Feel free to use this however you like. 
-- [@sudfish](https://github.com/sudfish)
+- [@kodesun](https://github.com/kodesun)
